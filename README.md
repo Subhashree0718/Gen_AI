@@ -1,3 +1,4 @@
+#Gen_AI 
 This repository contains a Python implementation of a simple Linear Regression Estimator that finds the best-fit slope using two different methods:
 
 Brute Force Search (Linear Search)
